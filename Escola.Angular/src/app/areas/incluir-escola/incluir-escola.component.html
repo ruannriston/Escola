@@ -1,0 +1,28 @@
+
+
+
+<div class="well">
+    <div class="row">
+        <h1 id="tableLabel">Adicionar nova escola</h1>
+        <div class="col-md-4">
+          <label class="form-label">Nome Escola</label>
+          <input type="text" class="form-control" [(ngModel)]="model.nomeEscola">
+        </div>
+        <div class="col-md-4">
+          <label class="form-label">CNPJ</label>
+          <input type="text" class="form-control" [(ngModel)]="model.cnpj" >
+          
+        </div>
+        <div class="col-md-4">
+          <label class="form-label">Data de Inserção</label>
+            <input type="text" class="form-control" [(ngModel)]="model.dtInsercao">
+        </div>
+        
+        <div class="col-12">
+            <br>
+          <button class="btn btn-success" type="submit" (click)="gravarEscola()">Gravar Escola</button>
+        </div>
+    </div>
+
+</div>
+    

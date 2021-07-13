@@ -1,0 +1,7 @@
+D:\Projetos\PharmControl\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\Projetos\PharmControl\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Projetos\PharmControl\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Projetos\PharmControl\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Projetos\PharmControl\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Projetos\PharmControl\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\Projetos\PharmControl\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

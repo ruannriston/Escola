@@ -1,0 +1,13 @@
+D:\Projetos\PharmControl\Infra\bin\Debug\netcoreapp3.1\Infra.deps.json
+D:\Projetos\PharmControl\Infra\bin\Debug\netcoreapp3.1\Infra.runtimeconfig.json
+D:\Projetos\PharmControl\Infra\bin\Debug\netcoreapp3.1\Infra.runtimeconfig.dev.json
+D:\Projetos\PharmControl\Infra\bin\Debug\netcoreapp3.1\Infra.dll
+D:\Projetos\PharmControl\Infra\bin\Debug\netcoreapp3.1\Infra.pdb
+D:\Projetos\PharmControl\Infra\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Projetos\PharmControl\Infra\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Projetos\PharmControl\Infra\obj\Debug\netcoreapp3.1\Infra.csprojAssemblyReference.cache
+D:\Projetos\PharmControl\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfoInputs.cache
+D:\Projetos\PharmControl\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfo.cs
+D:\Projetos\PharmControl\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.CopyComplete
+D:\Projetos\PharmControl\Infra\obj\Debug\netcoreapp3.1\Infra.dll
+D:\Projetos\PharmControl\Infra\obj\Debug\netcoreapp3.1\Infra.pdb

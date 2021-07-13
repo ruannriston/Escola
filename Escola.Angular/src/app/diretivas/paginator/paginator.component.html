@@ -1,0 +1,28 @@
+<div class="paginator-blck">
+    <div [ngClass]="{'bloquear-paginator':bloquearObj}"></div>
+    <ul class="pagination">
+        <li class="page-item" (click)="selectPage(1, $event)" [class.disabled]="currentPage == 1">
+            <a class="page-link" href="" title="Primeira Página">&laquo;</a>
+        </li>
+        <li class="page-item" (click)="selectPage(currentPage - 1, $event)" [class.disabled]="currentPage == 1">
+            <a class="page-link" href="" title="Voltar Página">&lsaquo;</a>
+        </li>
+        <!-- <li class="disabled" (click)="cancelEvent($event)" *ngIf="(currentPage - range) > 1">
+            <a href="">...</a>
+        </li> -->
+        <li class="page-item" *ngFor="let page of pages | async" [class.active]="page == currentPage">
+            <a class="page-link" href="" (click)="selectPage(page, $event)">
+                {{page}}
+            </a>
+        </li>
+        <!-- <li class="disabled" (click)="cancelEvent($event)" *ngIf="(currentPage + range) < totalPages">
+            <a href="">...</a>
+        </li> -->
+        <li class="page-item" (click)="selectPage(currentPage + 1, $event)" [class.disabled]="currentPage == totalPages">
+            <a class="page-link" href="" title="Próxima Pagina">&rsaquo;</a>
+        </li>
+        <li class="page-item" (click)="selectPage(totalPages, $event)" [class.disabled]="currentPage == totalPages">
+            <a class="page-link" href="" title="Ultima Página">&raquo;</a>
+        </li>
+    </ul>
+</div>

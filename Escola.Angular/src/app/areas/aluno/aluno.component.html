@@ -1,0 +1,102 @@
+<h1 id="tableLabel">Alunos Cadastrados</h1>
+
+
+
+
+<div class="col-md-24">
+    <button type="button" class="btn btn-primary" [routerLink]="['/incluir-aluno']">Novo Aluno</button>
+
+</div>
+<br>
+
+<table class='table table-striped' aria-labelledby="tableLabel">
+    <thead>
+        <tr>
+            <th>Código do Aluno</th>
+            <th>Nome</th>
+            <th>Cpf</th>
+            <th>Escola</th>
+            <th>Data de Inserção</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody *ngIf="listaAlunos.length > 0">
+        <tr *ngFor="let list of listaAlunos">
+            <td>{{ list.codAluno }}</td>
+            <td>{{ list.nomeAluno }}</td>
+            <td>{{ list.cpf}}</td>
+            <td>{{ list.nomeEscola}}</td>
+            <td>{{ list.dtInsercao | date:'dd/MM/yyyy' }}</td>
+            <th><button type="button" class="btn btn-danger" (click)="ExcluirAluno(list)">Excluir</button></th>
+            <th>
+                <button type="button" *ngIf="!editando" class="btn btn-primary"
+                    (click)="editarAluno(true, list)">Editar</button>
+                <button type="button" *ngIf="editando" class="btn btn-warning"
+                    (click)="editarAluno(false)">Cancelar</button>
+            </th>
+        </tr>
+    </tbody>
+    <tbody *ngIf="listaAlunos.length == 0">
+        <tr class="table-default">
+            <td colspan="7" class="text-center">Nenhum registro encontrado</td>
+        </tr>
+    </tbody>
+</table>
+<div class="col-md-24 ">
+    <div class="row form-inline" *ngIf="totalRegistros > 5">
+        <div class="col-md-10">
+            <div class="col-md-10 pull-left">
+                <paginator [offset]="offset" [limit]="limit" [size]="count"
+                    (pageChange)="onPageChange($event)">
+                </paginator>
+            </div>
+            <div class="col-md-14 pull-left" *ngIf="false">
+                <div class="form-inline detalhe-paginado">
+                    <span>Itens por página:</span>
+                    <div class="form-group">
+                        <select class="form-control" [(ngModel)]="qtdPagina"
+                            (change)="mudarQtdPaginas($event.target.value)">
+                            <option value="12">12</option>
+                            <option value="20">20</option>
+                            <option value="50">50</option>
+                            <option value="100">100</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-2">
+            <div *ngIf="itemInicial > 0 && itemFinal > 0 && itemTotal > 0"
+                class="pull-right detalhe-paginado">
+                <span>Item {{ itemInicial }} ao {{ itemFinal }} de {{ itemTotal }}</span>
+            </div>
+        </div>
+    </div>
+    <br />
+</div>
+
+<div class="well" *ngIf="editando">
+    <div class="row">
+        <div class="col-md-4">
+            <label class="form-label">Nome Aluno</label>
+            <input type="text" class="form-control" [(ngModel)]="model.nomeAluno">
+        </div>
+        <div class="col-md-4">
+            <label class="form-label">CNPJ</label>
+            <input type="text" class="form-control" [(ngModel)]="model.cpf">
+        </div>
+        <div class="col-md-4">
+            <label class="form-label">Escola</label>
+            <select class="form-select" [(ngModel)]="model.codEscola">
+                <option [ngValue]="0">Selecione a Escola</option>
+                <option *ngFor="let obj of listaEscolas" [ngValue]="obj.codEscola">{{obj.nomeEscola}}</option>
+            </select>
+        </div>
+    </div>
+    <div class="col-24 float-left">
+        <br>
+        <button class="btn btn-success" type="submit" (click)="alterarAluno()">Alterar Aluno</button>
+    </div>
+
+</div>

@@ -35,6 +35,14 @@ export class AppService {
     return this.http.post(this.apiUrl + `${caminho}`, objeto, httpOptions);
   }
 
+  putItems(caminho, objeto): Observable<any> {
+    return this.http.put(this.apiUrl + `${caminho}`, objeto, httpOptions);
+  }
+
+  deleteItems(caminho) {
+    return this.http.delete(this.apiUrl + `${caminho}`);
+  }
+
   postItemsForm(caminho, objeto): Observable<any> {
     let token = localStorage.getItem(btoa('auth_token'));
     return this.http.post(this.apiUrl + `${caminho}`, objeto, {headers: new HttpHeaders({

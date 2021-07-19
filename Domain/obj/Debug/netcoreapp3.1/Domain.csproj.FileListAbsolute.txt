@@ -5,3 +5,11 @@ D:\Projetos\PharmControl\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInput
 D:\Projetos\PharmControl\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
 D:\Projetos\PharmControl\Domain\obj\Debug\netcoreapp3.1\Domain.dll
 D:\Projetos\PharmControl\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\Projetos\Escola\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\Projetos\Escola\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Projetos\Escola\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Projetos\Escola\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+D:\Projetos\Escola\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Projetos\Escola\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Projetos\Escola\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\Projetos\Escola\Domain\obj\Debug\netcoreapp3.1\Domain.pdb

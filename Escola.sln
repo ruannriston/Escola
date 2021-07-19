@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Escola.Web", "Escola.Angula
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Escola.Api", "Escola.Api\Escola.Api.csproj", "{04404149-969B-4188-AB9B-74BE84B275BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{00DAC9F3-F8F1-435A-A94C-D52BA8452C9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Application\Application.csproj", "{00DAC9F3-F8F1-435A-A94C-D52BA8452C9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{7CD7DA4F-8BF2-457B-BE89-501A2FECC5E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{7CD7DA4F-8BF2-457B-BE89-501A2FECC5E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra", "Infra\Infra.csproj", "{7084B283-C384-484F-82ED-CD01136015E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infra", "Infra\Infra.csproj", "{7084B283-C384-484F-82ED-CD01136015E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEscola", "TestEscola\TestEscola.csproj", "{D1206E78-E1A9-41A6-A0C1-B0856CADEC2F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,10 @@ Global
 		{7084B283-C384-484F-82ED-CD01136015E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7084B283-C384-484F-82ED-CD01136015E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7084B283-C384-484F-82ED-CD01136015E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1206E78-E1A9-41A6-A0C1-B0856CADEC2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1206E78-E1A9-41A6-A0C1-B0856CADEC2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1206E78-E1A9-41A6-A0C1-B0856CADEC2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1206E78-E1A9-41A6-A0C1-B0856CADEC2F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

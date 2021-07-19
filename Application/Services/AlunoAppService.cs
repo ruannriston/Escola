@@ -50,5 +50,13 @@ namespace Application.Services
             _unitOfWork.SaveChanges();
         }
 
+        public Boolean ValidaNotaGeral(int nota)
+        {
+            if (nota < 7)
+                return false;
+            else
+                return true;
+        }
+
     }
 }

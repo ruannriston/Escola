@@ -1,0 +1,5 @@
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\i\Escola.Web\Debug\netcoreapp3.1\Escola.Web.csprojAssemblyReference.cache
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\i\Escola.Web\Debug\netcoreapp3.1\staticwebassets\Escola.Web.StaticWebAssets.Manifest.cache
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\i\Escola.Web\Debug\netcoreapp3.1\staticwebassets\Escola.Web.StaticWebAssets.xml
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\i\Escola.Web\Debug\netcoreapp3.1\Escola.Web.AssemblyInfoInputs.cache
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\i\Escola.Web\Debug\netcoreapp3.1\Escola.Web.AssemblyInfo.cs

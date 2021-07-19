@@ -1,0 +1,9 @@
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\b\Application\Debug\netcoreapp3.1\Application.deps.json
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\b\Application\Debug\netcoreapp3.1\Application.runtimeconfig.json
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\b\Application\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\b\Application\Debug\netcoreapp3.1\Application.dll
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\i\Application\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\i\Application\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\i\Application\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\i\Application\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\i\Application\Debug\netcoreapp3.1\Application.dll

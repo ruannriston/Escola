@@ -1,0 +1,7 @@
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\b\Domain\Debug\netcoreapp3.1\Domain.deps.json
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\b\Domain\Debug\netcoreapp3.1\Domain.dll
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\i\Domain\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\i\Domain\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\i\Domain\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\i\Domain\Debug\netcoreapp3.1\Domain.csproj.CopyComplete
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\i\Domain\Debug\netcoreapp3.1\Domain.dll

@@ -1,0 +1,12 @@
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\b\TestEscola\Debug\netcoreapp3.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\b\TestEscola\Debug\netcoreapp3.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\b\TestEscola\Debug\netcoreapp3.1\xunit.runner.utility.netcoreapp10.dll
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\b\TestEscola\Debug\netcoreapp3.1\TestEscola.deps.json
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\b\TestEscola\Debug\netcoreapp3.1\TestEscola.runtimeconfig.json
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\b\TestEscola\Debug\netcoreapp3.1\TestEscola.runtimeconfig.dev.json
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\b\TestEscola\Debug\netcoreapp3.1\TestEscola.dll
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\i\TestEscola\Debug\netcoreapp3.1\TestEscola.csprojAssemblyReference.cache
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\i\TestEscola\Debug\netcoreapp3.1\TestEscola.AssemblyInfoInputs.cache
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\i\TestEscola\Debug\netcoreapp3.1\TestEscola.AssemblyInfo.cs
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\i\TestEscola\Debug\netcoreapp3.1\TestEscola.csproj.CopyComplete
+D:\Projetos\Escola\.vs\Escola\v16\lut\0\i\TestEscola\Debug\netcoreapp3.1\TestEscola.dll

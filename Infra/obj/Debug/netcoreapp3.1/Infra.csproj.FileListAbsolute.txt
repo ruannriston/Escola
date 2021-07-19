@@ -11,3 +11,16 @@ D:\Projetos\PharmControl\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfo.cs
 D:\Projetos\PharmControl\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.CopyComplete
 D:\Projetos\PharmControl\Infra\obj\Debug\netcoreapp3.1\Infra.dll
 D:\Projetos\PharmControl\Infra\obj\Debug\netcoreapp3.1\Infra.pdb
+D:\Projetos\Escola\Infra\bin\Debug\netcoreapp3.1\Infra.deps.json
+D:\Projetos\Escola\Infra\bin\Debug\netcoreapp3.1\Infra.runtimeconfig.json
+D:\Projetos\Escola\Infra\bin\Debug\netcoreapp3.1\Infra.runtimeconfig.dev.json
+D:\Projetos\Escola\Infra\bin\Debug\netcoreapp3.1\Infra.dll
+D:\Projetos\Escola\Infra\bin\Debug\netcoreapp3.1\Infra.pdb
+D:\Projetos\Escola\Infra\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Projetos\Escola\Infra\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Projetos\Escola\Infra\obj\Debug\netcoreapp3.1\Infra.csprojAssemblyReference.cache
+D:\Projetos\Escola\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfoInputs.cache
+D:\Projetos\Escola\Infra\obj\Debug\netcoreapp3.1\Infra.AssemblyInfo.cs
+D:\Projetos\Escola\Infra\obj\Debug\netcoreapp3.1\Infra.csproj.CopyComplete
+D:\Projetos\Escola\Infra\obj\Debug\netcoreapp3.1\Infra.dll
+D:\Projetos\Escola\Infra\obj\Debug\netcoreapp3.1\Infra.pdb
